@@ -1,0 +1,13 @@
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\bin\Debug\netcoreapp3.1\bt-inheritance.exe
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\bin\Debug\netcoreapp3.1\bt-inheritance.deps.json
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\bin\Debug\netcoreapp3.1\bt-inheritance.runtimeconfig.json
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\bin\Debug\netcoreapp3.1\bt-inheritance.runtimeconfig.dev.json
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\bin\Debug\netcoreapp3.1\bt-inheritance.dll
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\bin\Debug\netcoreapp3.1\bt-inheritance.pdb
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.csprojAssemblyReference.cache
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.AssemblyInfoInputs.cache
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.AssemblyInfo.cs
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.dll
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.pdb
+C:\Users\Brennen\workspace\csharp\exercises\bt-inheritance\obj\Debug\netcoreapp3.1\bt-inheritance.genruntimeconfig.cache
